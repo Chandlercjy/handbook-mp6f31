@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Chandlercjy.github.io/handbook-mp6f31/sitemap.xml
